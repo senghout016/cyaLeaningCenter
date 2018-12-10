@@ -1,0 +1,51 @@
+p
+{
+	color: blue;
+	background: red;
+	font-family: Arail;
+	text-decoration: underline;
+	font-weight: bold;
+	line-height: 2em;
+	
+}
+h1
+{
+	color: red;
+	background: yellow;
+	font-family: Impact;
+	font-weight: bold;
+	line-height: 2em;
+}
+ .general
+ {
+ 	font-size: 100px;
+ 	
+ }
+
+.a
+{
+	background-color: red;
+	position: absolute;
+ 	top: 300px;
+ 	width: 400px;
+ 	height: 800px;
+
+}
+.b
+{
+	background-color: green;
+	position: absolute;
+	top: 300px;
+	width: 700px;
+	left: 400px;
+	height: 200px;
+}
+.c
+{
+	background-color: yellow;
+	position: absolute;
+	top: 300px;
+	width: 450px;
+	right: 0px;
+	height: 800px;
+}
